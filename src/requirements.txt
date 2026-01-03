@@ -1,0 +1,5 @@
+scikit-learn
+transformers>=4.35.0
+whatlies
+torch
+gradio>=4.0.0
